@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="62px" height="74px" viewBox="0 0 62 74" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>sss</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Logo-" transform="translate(-7.000000, -13.000000)">
+            <g id="sss" transform="translate(-1.000000, -1.000000)">
+                <rect id="Rectangle-3" fill="#D2D3D7" x="8" y="14" width="62" height="74"></rect>
+                <polygon id="Rectangle-2-Copy-6" fill="#70163C" transform="translate(57.064238, 17.292853) rotate(24.000000) translate(-57.064238, -17.292853) " points="47.7161033 17.9072291 67.563424 9.07063252 74.8849608 25.5150733 39.2435148 21.6794685"></polygon>
+                <polygon id="Rectangle-2-Copy-7" fill="#70163C" transform="translate(57.181156, 86.749757) rotate(155.000000) translate(-57.181156, -86.749757) " points="46.0917127 80.1991736 60.1502656 86.7547844 74.1872541 93.3003397 40.175057 92.8874826"></polygon>
+                <polygon id="Rectangle-2-Copy-2" fill="#15305B" transform="translate(20.938725, 86.752718) rotate(24.000000) translate(-20.938725, -86.752718) " points="3.93161375 80.3651839 24.4600155 80.3506161 37.9458359 80.5459844 9.62592675 93.1548203"></polygon>
+                <path d="M2.2287475,8.35479887 L37.4868447,9.2859832 C35.6030421,12.5488249 34.172658,15.0263228 33.1956923,16.718477 C32.2187267,18.4106313 30.8453409,20.7894052 29.075535,23.8547989 L15.0585843,15.7621086 L2.2287475,8.35479887 Z" id="Rectangle-2-Copy-3" fill="#15305B" transform="translate(19.857796, 16.104799) rotate(150.000000) translate(-19.857796, -16.104799) "></path>
+                <text id="S" font-family="IowanOldStyle-Bold, Iowan Old Style" font-size="64" font-weight="bold" fill="#15305B">
+                    <tspan x="19" y="75">S</tspan>
+                </text>
+                <text id="S" font-family="IowanOldStyle-Bold, Iowan Old Style" font-size="64" font-weight="bold" fill="#70163C">
+                    <tspan x="24" y="75">S</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
